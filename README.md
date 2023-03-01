@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img align="right" alt="Coding" width="1000" src="https://media.tenor.com/6CHontNt1mIAAAAC/otterpaka-jujutsu-kaisen.gif">
+
 <!--
 **shreyasdesu/shreyasdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
