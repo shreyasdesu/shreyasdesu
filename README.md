@@ -2,6 +2,7 @@
 
 <br>
 
+##About Me
 <p style="font-family: Montserrat;">Hi there, I'm Shreyas, a computer science student who loves exploring and learning new things. When I'm not coding, you can find me singing or producing music, or playing various competitive PC games. I'm always looking for new challenges and opportunities to grow as a developer, so feel free to reach out and connect!</p>
 
 
