@@ -22,8 +22,8 @@ Let's connect and collaborate! 💻🤝
 <img align="center" alt="Shreyas | Twitter" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <!--  <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-<img align="center" alt="Abhishek's LinkedIN" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shreyas-naik-b44a3b250">
+<img align="center" alt="Shreyas's LinkedIN" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
 </p>
 
