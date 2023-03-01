@@ -1,6 +1,6 @@
-[![MasterHead](https://github.com/shreyasdesu/shreyasdesu/blob/main/banner.png)](https://github.com/shreyasdesu)
+[![MasterHead](https://github.com/shreyasdesu/shreyasdesu/blob/main/banner%20(1).png)](https://github.com/shreyasdesu)
 
-<p>Yo 👋
+<p>
 
 I'm Shreyas, a computer science student who loves exploring and learning new things. I'm passionate about coding, singing, producing music, and watching anime. I'm always looking for new challenges and opportunities to grow as a developer.
 
