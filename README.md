@@ -1,3 +1,8 @@
+## <span style="font-family: Montserrat">About Me</span>
+
+Hi there, I'm Shreyas, a computer science student who loves exploring and learning new things. When I'm not coding, you can find me singing or producing music, or playing various competitive PC games. I'm always looking for new challenges and opportunities to grow as a developer, so feel free to reach out and connect!
+
+
 <img align="right" alt="Coding" width="1000" src="https://media.tenor.com/6CHontNt1mIAAAAC/otterpaka-jujutsu-kaisen.gif">
 
 <h3 align="left">Connect with me:</h3>
