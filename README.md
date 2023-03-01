@@ -2,6 +2,8 @@
 
 <img align="right" alt="Coding" width="400" src="[https://tenor.com/bTYte.gif]">
 
+<div class="tenor-gif-embed" data-postid="25694478" data-share-method="host" data-aspect-ratio="1.72973" data-width="100%"><a href="https://tenor.com/view/otterpaka-jujutsu-kaisen-gojo-welcome-back-gif-25694478">Otterpaka Jujutsu Kaisen GIF</a>from <a href="https://tenor.com/search/otterpaka-gifs">Otterpaka GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <!--
 **shreyasdesu/shreyasdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
