@@ -14,17 +14,17 @@ Let's connect and collaborate! 💻🤝
 <img align="center" alt="Shreyas's Instagram" height="33px" width="33px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
   <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://discord.gg/XTW52Kt">
-<img align="center" alt="Abhishek's Discord" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="discordapp.com/users/492530513953816586">
+<img align="center" alt="Shreyas's Discord" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://twitter.com/abhisheknaiidu">
-<img align="center" alt="Abhishek Naidu | Twitter" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/shreyasdesu">
+<img align="center" alt="Shreyas | Twitter" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-  <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<!--  <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
 <img align="center" alt="Abhishek's LinkedIN" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 </p>
 
 
