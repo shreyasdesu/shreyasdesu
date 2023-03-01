@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Coding" width="400" src="(https://tenor.com/bTYte.gif)">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bTYte.gif">
 
 <!--
 **shreyasdesu/shreyasdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
