@@ -10,8 +10,8 @@ Let's connect and collaborate! 💻🤝
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.instagram.com/abhisheknaiidu/" >
-<img align="center" alt="Abhishek's Instagram" height="33px" width="33px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/shreyasdesu/" >
+<img align="center" alt="Shreyas's Instagram" height="33px" width="33px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
   <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://discord.gg/XTW52Kt">
