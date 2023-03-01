@@ -26,8 +26,10 @@ Let's connect and collaborate! 💻🤝
 </p>
 
 
-
+# Listen Along 🎧
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=q9w58zz45o4clczypd671lokx&width=1000)
+
+# Stats 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shreyasdesu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shreyasdesu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
@@ -36,7 +38,7 @@ Let's connect and collaborate! 💻🤝
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyasdesu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-
+# Dunno
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
