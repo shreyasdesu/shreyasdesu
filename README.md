@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=q9w58zz45o4clczypd671lokx&width=999)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=q9w58zz45o4clczypd671lokx&width=1000)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shreyasdesu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shreyasdesu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
