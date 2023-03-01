@@ -14,7 +14,7 @@ Let's connect and collaborate! 💻🤝
 <img align="center" alt="Shreyas's Instagram" height="33px" width="33px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
   <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="discordapp.com/users/492530513953816586">
+<a href="https://discordapp.com/users/492530513953816586">
 <img align="center" alt="Shreyas's Discord" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
