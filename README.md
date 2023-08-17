@@ -53,5 +53,6 @@ Let's connect and collaborate! 💻🤝
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shreyasdesu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shreyasdesu?trk=profile-badge">Shreyas Naik</a></div>
               
