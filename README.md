@@ -52,3 +52,6 @@ Let's connect and collaborate! 💻🤝
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shreyasdesu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shreyasdesu?trk=profile-badge">Shreyas Naik</a></div>
+              
