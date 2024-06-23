@@ -7,27 +7,6 @@ I'm Shreyas, a computer science student who loves exploring and learning new thi
 Let's connect and collaborate! 💻🤝
 </p>
 
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.instagram.com/shreyasdesu/" >
-<img align="center" alt="Shreyas's Instagram" height="33px" width="33px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-  <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://discordapp.com/users/492530513953816586">
-<img align="center" alt="Shreyas's Discord" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-  <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://twitter.com/shreyasdesu">
-<img align="center" alt="Shreyas | Twitter" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<!--  <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/shreyas-naik-b44a3b250">
-<img align="center" alt="Shreyas's LinkedIN" height="33px" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-</p>
-
-
 # Listen Along 🎧
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=q9w58zz45o4clczypd671lokx&width=1000)
 
@@ -52,7 +31,3 @@ Let's connect and collaborate! 💻🤝
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shreyasdesu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shreyasdesu?trk=profile-badge">Shreyas Naik</a></div>
-              
